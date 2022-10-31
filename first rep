@@ -1,0 +1,7 @@
+public class java{
+int a=123;
+public static void main(string[] args){
+java sc=new java();
+System.out.println(sc.a);}
+}
+
