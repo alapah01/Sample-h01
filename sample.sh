@@ -1,0 +1,1 @@
+echo | mailx hi
